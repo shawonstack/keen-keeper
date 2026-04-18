@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Ayesha Rahman",
+    "picture": "/friends/atik.jpg",
+    "email": "ayesha.rahman@gmail.com",
+    "days_since_contact": 18,
+    "status": "overdue",
+    "tags": ["university", "close friend"],
+    "bio": "Met at BUET orientation in 2019. We bonded over endless chai sessions and late-night study marathons. She's now doing her Masters in Canada.",
+    "goal": 14,
+    "next_due_date": "2026-04-10"
+  },
+  {
+    "id": 2,
+    "name": "Tanvir Hossain",
+    "picture": "/friends/hasan.png",
+    "email": "tanvir.h@outlook.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["work", "mentor"],
+    "bio": "Senior dev who mentored me at my first job. Always has sharp advice on system design and career growth. We do bi-weekly code reviews together.",
+    "goal": 7,
+    "next_due_date": "2026-04-20"
+  },
+  {
+    "id": 3,
+    "name": "Nusrat Jahan",
+    "picture": "/friends/jakir.png",
+    "email": "nusrat.jahan@yahoo.com",
+    "days_since_contact": 11,
+    "status": "almost due",
+    "tags": ["family", "cousin"],
+    "bio": "My favourite cousin who lives in Chittagong. We grew up together during every Eid holiday. She recently got married and started a bakery business.",
+    "goal": 14,
+    "next_due_date": "2026-04-17"
+  },
+  {
+    "id": 4,
+    "name": "Rifat Karim",
+    "picture": "/friends/jihad.jpg",
+    "email": "rifat.karim@gmail.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["college", "gym buddy"],
+    "bio": "College roommate and workout partner. We pushed each other through HSC and still hit the gym together every weekend when possible.",
+    "goal": 7,
+    "next_due_date": "2026-04-22"
+  },
+  {
+    "id": 5,
+    "name": "Sumaiya Akter",
+    "picture": "/friends/nabil.jpg",
+    "email": "sumaiya.akter@protonmail.com",
+    "days_since_contact": 30,
+    "status": "overdue",
+    "tags": ["childhood", "close friend"],
+    "bio": "Best friend since Class 3. We've survived through everything together — school, heartbreaks, and career struggles. Life got busy but she's irreplaceable.",
+    "goal": 21,
+    "next_due_date": "2026-04-01"
+  },
+  {
+    "id": 6,
+    "name": "Imran Chowdhury",
+    "picture": "/friends/shawon.png",
+    "email": "imran.chowdhury@gmail.com",
+    "days_since_contact": 8,
+    "status": "almost due",
+    "tags": ["work", "colleague"],
+    "bio": "Frontend dev at my current company. We collaborate daily on product design and often grab lunch together. Great guy with an eye for clean UI.",
+    "goal": 10,
+    "next_due_date": "2026-04-18"
+  },
+  {
+    "id": 7,
+    "name": "Sabrina Islam",
+    "picture": "/friends/shuvo.jpg",
+    "email": "sabrina.islam@gmail.com",
+    "days_since_contact": 45,
+    "status": "overdue",
+    "tags": ["university", "project partner"],
+    "bio": "My thesis partner in final year. We spent six months drowning in research papers together. She moved to Sylhet after graduation and we rarely talk now.",
+    "goal": 30,
+    "next_due_date": "2026-03-20"
+  },
+  {
+    "id": 8,
+    "name": "Mahfuz Ahmed",
+    "picture": "/friends/tareq.jpg",
+    "email": "mahfuz.ahmed@gmail.com",
+    "days_since_contact": 2,
+    "status": "on-track",
+    "tags": ["close friend", "neighbour"],
+    "bio": "Grew up on the same street in Mirpur. We've been friends for over 15 years. He's my go-to person whenever I need honest, unfiltered advice.",
+    "goal": 7,
+    "next_due_date": "2026-04-25"
+  }
+]
