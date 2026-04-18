@@ -59,5 +59,4 @@ src/
 
 ## Deployment
 
-Deployed on Vercel. The `vercel.json` config ensures SPA routing works correctly
-(no 404 on page refresh).
+netlify : https://calm-flan-b480f3.netlify.app/
