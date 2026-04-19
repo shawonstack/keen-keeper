@@ -59,4 +59,6 @@ src/
 
 ## Deployment
 
+GitHub repo: https://github.com/shawonstack/keen-keeper
+
 netlify : https://calm-flan-b480f3.netlify.app/
